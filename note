@@ -1,0 +1,6 @@
+            <form>
+                <label>
+                    {names}
+                    <input type="text" name="name" />
+                </label>
+            </form>

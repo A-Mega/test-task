@@ -1,0 +1,57 @@
+.button-authentication {
+    width: 192px;
+    height: 34px;
+    border-radius: 3px;
+    background-color: #000000;
+
+    /*font-family: TrebuchetMS;*/
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.h1-authentication {
+    width: 384px;
+    height: 40px;
+    /*font-family: TrebuchetMS;*/
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #000000;
+}
+
+.label-authentication {
+    width: 43px;
+    height: 24px;
+    /*font-family: TrebuchetMS;*/
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.6;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #000000;
+  }
+
+.input-authentication {
+    width: 400px;
+    height: 34px;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+
+    /*font-family: TrebuchetMS;*/
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+}
